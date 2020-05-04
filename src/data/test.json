@@ -1,0 +1,142 @@
+[
+  {
+    "Product_id": "Product 1",
+    "Valu_1": 10,
+    "Valu_2": 1,
+    "Valu_3": 100,
+    "Price": 150000
+  },
+  {
+    "Product_id": "Product 2",
+    "Valu_1": 20,
+    "Valu_2": 2,
+    "Valu_3": 200,
+    "Price": 200000
+  },
+  {
+    "Product_id": "Product 3",
+    "Valu_1": 30,
+    "Valu_2": 3,
+    "Valu_3": 300,
+    "Price": 250000
+  },
+  {
+    "Product_id": "Product 4",
+    "Valu_1": 40,
+    "Valu_2": 4,
+    "Valu_3": 400,
+    "Price": 300000
+  },
+  {
+    "Product_id": "Product 5",
+    "Valu_1": 50,
+    "Valu_2": 5,
+    "Valu_3": 500,
+    "Price": 350000
+  },
+  {
+    "Product_id": "Product 6",
+    "Valu_1": 60,
+    "Valu_2": 6,
+    "Valu_3": 600,
+    "Price": 400000
+  },
+  {
+    "Product_id": "Product 7",
+    "Valu_1": 70,
+    "Valu_2": 7,
+    "Valu_3": 700,
+    "Price": 450000
+  },
+  {
+    "Product_id": "Product 8",
+    "Valu_1": 80,
+    "Valu_2": 8,
+    "Valu_3": 800,
+    "Price": 500000
+  },
+  {
+    "Product_id": "Product 9",
+    "Valu_1": 90,
+    "Valu_2": 9,
+    "Valu_3": 900,
+    "Price": 550000
+  },
+  {
+    "Product_id": "Product 10",
+    "Valu_1": 100,
+    "Valu_2": 10,
+    "Valu_3": 1000,
+    "Price": 600000
+  },
+  {
+    "Product_id": "Product 11",
+    "Valu_1": 110,
+    "Valu_2": 11,
+    "Valu_3": 1100,
+    "Price": 650000
+  },
+  {
+    "Product_id": "Product 12",
+    "Valu_1": 120,
+    "Valu_2": 12,
+    "Valu_3": 1200,
+    "Price": 700000
+  },
+  {
+    "Product_id": "Product 13",
+    "Valu_1": 130,
+    "Valu_2": 13,
+    "Valu_3": 1300,
+    "Price": 750000
+  },
+  {
+    "Product_id": "Product 14",
+    "Valu_1": 140,
+    "Valu_2": 14,
+    "Valu_3": 1400,
+    "Price": 800000
+  },
+  {
+    "Product_id": "Product 15",
+    "Valu_1": 150,
+    "Valu_2": 15,
+    "Valu_3": 1500,
+    "Price": 850000
+  },
+  {
+    "Product_id": "Product 16",
+    "Valu_1": 160,
+    "Valu_2": 16,
+    "Valu_3": 1600,
+    "Price": 900000
+  },
+  {
+    "Product_id": "Product 17",
+    "Valu_1": 170,
+    "Valu_2": 17,
+    "Valu_3": 1700,
+    "Price": 950000
+  },
+  {
+    "Product_id": "Product 18",
+    "Valu_1": 180,
+    "Valu_2": 18,
+    "Valu_3": 1800,
+    "Price": 1000000
+  },
+  {
+    "Product_id": "Product 19",
+    "Valu_1": 190,
+    "Valu_2": 19,
+    "Valu_3": 1900,
+    "Price": 1050000
+  },
+  {
+    "Product_id": "Product 20",
+    "Valu_1": 200,
+    "Valu_2": 20,
+    "Valu_3": 2000,
+    "Price": 1100000
+  }
+]

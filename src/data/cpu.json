@@ -1,0 +1,186 @@
+[
+  {
+    "product_id": "A6-9500",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 3,
+    "benchmark": 797,
+    "price": 625000
+  },
+  {
+    "product_id": "A8-9600",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 4,
+    "benchmark": 1420,
+    "price": 730000
+  },
+  {
+    "product_id": "Athlon 200GE",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 2,
+    "benchmark": 1752,
+    "price": 790000
+  },
+  {
+    "product_id": "Athlon 240GE",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 2,
+    "benchmark": 1880,
+    "price": 840000
+  },
+  {
+    "product_id": "Athlon 3000G",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 2,
+    "benchmark": 1800,
+    "price": 867000
+  },
+  {
+    "product_id": "Athlon 220GE",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 2,
+    "benchmark": 1828,
+    "price": 868000
+  },
+  {
+    "product_id": "Ryzen 3 1200",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 4,
+    "benchmark": 2570,
+    "price": 1260000
+  },
+  {
+    "product_id": "Ryzen 3 2200G",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 4,
+    "benchmark": 2742,
+    "price": 1365000
+  },
+  {
+    "product_id": "Ryzen 3 3200G",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 4,
+    "benchmark": 2908,
+    "price": 1532000
+  },
+  {
+    "product_id": "Ryzen 5 1600",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 4967,
+    "price": 1887000
+  },
+  {
+    "product_id": "Ryzen 5 2400G",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 4,
+    "benchmark": 3177,
+    "price": 1909000
+  },
+  {
+    "product_id": "Ryzen 5 2600",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 5345,
+    "price": 1923000
+  },
+  {
+    "product_id": "Ryzen 5 3500",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 4806,
+    "price": 2110000
+  },
+  {
+    "product_id": "Ryzen 5 2600X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 5782,
+    "price": 2240000
+  },
+  {
+    "product_id": "Ryzen 5 3500X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 5266,
+    "price": 2515000
+  },
+  {
+    "product_id": "Ryzen 5 3400G",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 4,
+    "benchmark": 3658,
+    "price": 2695000
+  },
+  {
+    "product_id": "Ryzen 5 3600",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 6812,
+    "price": 3366000
+  },
+  {
+    "product_id": "Ryzen 7 2700X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 8,
+    "benchmark": 7079,
+    "price": 4040000
+  },
+  {
+    "product_id": "Ryzen 5 3600X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 6,
+    "benchmark": 6977,
+    "price": 4200000
+  },
+  {
+    "product_id": "Ryzen 7 3700X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 8,
+    "benchmark": 8716,
+    "price": 5640000
+  },
+  {
+    "product_id": "Ryzen 7 3800X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 8,
+    "benchmark": 9052,
+    "price": 6867000
+  },
+  {
+    "product_id": "Ryzen 9 3900X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 12,
+    "benchmark": 12111,
+    "price": 8722000
+  },
+  {
+    "product_id": "Ryzen 9 3950X",
+    "brand": "AMD",
+    "platform": "AM4",
+    "core": 16,
+    "benchmark": 891,
+    "price": 13360000
+  }
+]
